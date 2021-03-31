@@ -2,7 +2,7 @@
 
 *Software Engineer at Braude College, Israel*
 
-Since I remember myself I was passionate about technologies. When I was 18 I decided to step into Computer Science. It's been a long a way but finally, I'm finishing my Bachelor's degree.
+Since I remember, I was passionate about technologies. When I was 18, I decided to step into Computer Science. It's been a long way, but finally, I'm finishing my Bachelor's degree.
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Konstantin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kmaltcev/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/kmaltcev?label=follow&style=social)](https://github.com/kmaltcev)
