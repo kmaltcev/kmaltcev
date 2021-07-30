@@ -13,10 +13,13 @@ Since I remember, I was passionate about technologies. When I was 18, I decided 
 
 ✨Tools: [![Git](https://img.shields.io/badge/-Git-F0F0E8?style=flat-square&logo=git), ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku), ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=mysql), ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react), ![Pandas](https://img.shields.io/badge/-Pandas-130654?style=flat-square&logo=Pandas), ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras), ![Scikit-learn](https://img.shields.io/badge/-Scikit-3499CD?style=flat-square&logo=Scikit-learn)]
 
-🔭 I'm currently working on: [Authorship Analysis with NN, Portfolio web-site]
+🔭 I'm currently working on: [Authorship Analysis with CNN]
 
 🌱 I'm currently learning: [Distributed Systems, Networking, WebDev, Android]
 
 🏂 My hobbies: [Snowboarding, Competitive games, Quizes]
 
-🤔 I'm looking for: [Internship, Junior position]
+🤖 My job: [NOC Engineer at Dynamic Yield]
+
+
+<!-- 🤔 I'm looking for: [Internship, Junior position] -->
