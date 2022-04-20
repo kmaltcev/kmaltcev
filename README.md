@@ -2,8 +2,6 @@
 
 *NOC Engineer at Dynamic Yield & Software Engineering Student at Braude College, Israel*
 
-Since I remember, I was passionate about technologies. When I was 18, I decided to step into Computer Science. It's been a long way, but finally, I'm finishing my Bachelor's degree.
-
 [![Linkedin: kmaltcev](https://img.shields.io/badge/-Konstantin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kmaltcev/)](https://www.linkedin.com/in/kmaltcev/)
 [![GitHub](https://img.shields.io/github/followers/kmaltcev?label=follow&style=social)](https://github.com/kmaltcev)
 
@@ -19,4 +17,4 @@ Since I remember, I was passionate about technologies. When I was 18, I decided 
 
 🏂 My hobbies: [Snowboarding, Competitive games, Quizes]
 
-🤔 I'm open for: [Junior Software Engeneer positions]
+🤔 I'm open for: [Junior Software Engineer positions]
