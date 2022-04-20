@@ -1,6 +1,6 @@
 ### Hi, I'm Kostya! 👋
 
-*Software Engineer at Braude College, Israel*
+*NOC Engineer at Dynamic Yield & Software Engineering Student at Braude College, Israel*
 
 Since I remember, I was passionate about technologies. When I was 18, I decided to step into Computer Science. It's been a long way, but finally, I'm finishing my Bachelor's degree.
 
@@ -19,6 +19,4 @@ Since I remember, I was passionate about technologies. When I was 18, I decided 
 
 🏂 My hobbies: [Snowboarding, Competitive games, Quizes]
 
-🤖 My job: [NOC Engineer at Dynamic Yield]
-
-<!-- 🤔 I'm looking for: [Internship, Junior position] -->
+🤔 I'm open for: [Junior Software Engeneer positions]
