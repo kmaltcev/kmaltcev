@@ -9,8 +9,6 @@
 
 ✨Tools: [![Git](https://img.shields.io/badge/-Git-F0F0E8?style=flat-square&logo=git), ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku), ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=mysql), ![Pandas](https://img.shields.io/badge/-Pandas-130654?style=flat-square&logo=Pandas), ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras), ![Scikit-learn](https://img.shields.io/badge/-Scikit-3499CD?style=flat-square&logo=Scikit-learn), ![React](https://img.shields.io/badge/-React-16181d?style=flat-square&logo=React), ![Node.js](https://img.shields.io/badge/-Node.js-233055?style=flat-square&logo=Node.js), ![MongoDB](https://img.shields.io/badge/-MongoDB-126249?style=flat-square&logo=Mongodb)]
 
-🔭 I'm currently working on: [Authorship Analysis with CNN-BiLSTM]
-
 🌱 I'm currently learning: [Brain Sensing and Learning, Software Verification, Algorithms for texts and sequences]
 
 🏂 My hobbies: [Music, Snowboarding, Competitive gaming, Camping, CTF challanges]
