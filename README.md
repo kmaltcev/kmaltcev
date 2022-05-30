@@ -13,6 +13,6 @@
 
 🌱 I'm currently learning: [Brain Sensing and Learning, Software Verification, Algorithms for texts and sequences]
 
-🏂 My hobbies: [Snowboarding, Competitive games, Quizes]
+🏂 My hobbies: [Music, Snowboarding, Competitive gaming, Camping, CTF challanges]
 
 🤔 I'm open for: [Junior Software Engineer positions]
