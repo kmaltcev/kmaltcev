@@ -1,4 +1,4 @@
-### Hi stranger! Nice to meet you. 👋
+### Hi stranger! Nice to meet you 👋
 
 *Recently Graduated Software Engineer & NOC Engineer at Dynamic Yield*
 
