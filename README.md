@@ -1,7 +1,5 @@
 ### Hi stranger! Nice to meet you 👋
 
-*Recently Graduated Software Engineer & NOC Engineer at Dynamic Yield*
-
 [![Linkedin: kmaltcev](https://img.shields.io/badge/-Konstantin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kmaltcev/)](https://www.linkedin.com/in/kmaltcev/)
 
 ⚡Languages: [![Python](https://img.shields.io/badge/-Python-FFD545?style=flat-square&logo=Python), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), ![Java](https://img.shields.io/badge/-Java-5283A2?style=flat-square&logo=Java), ![Kotlin](https://img.shields.io/badge/-Kotlin-FF8A00?style=flat-square&logo=Kotlin), ![C++](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)]
